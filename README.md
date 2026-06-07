@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sriram+%F0%9F%91%8B;Web+Dev+%7C+AI%2FML+Engineer;Building+smart+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Boddu+Sriram+%F0%9F%91%8B;Full+Stack+Dev+%7C+AI%2FML+Engineer;Building+smart+systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://github.com/sriram806?tab=followers">
     <img src="https://img.shields.io/github/followers/sriram806?style=flat-square&color=34A853&label=Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Repos-0-FBBC05?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-4-FBBC05?style=flat-square" />
 </p>
 
 <p align="center">
@@ -22,11 +22,18 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | Smart Classroom Management System (Facial Recognition Attendance) |
-| 🌱 **Learning** | Three.js for immersive 3D web experiences |
-| 💬 **Ask me about** | Web Dev · AI/ML · Django · Node.js · React |
+| 🔭 **Working on** | Production-ready features for **Flyobo** and scalable full-stack applications. |
+| 🌱 **Learning** | Advanced **Three.js** 3D graphics & BigQuery SQL cloud analytics. |
+| 💬 **Ask me about** | Node.js · React / Next.js · Django · AI/ML Pipelines · Database Management |
 | 📫 **Reach me** | boddusriram1234@gmail.com |
-| ⚡ **Fun fact** | Hardcore Naruto fan & anime enthusiast |
+| ⚡ **Fun fact** | Hardcore Naruto fan, anime enthusiast, and proud owner of a cock named Felcon. |
+
+---
+
+## 💼 Experience
+
+* 🚀 **Backend Development Intern** @ **Flyobo** — Building secure backend infrastructure and full-stack smart travel solutions.
+* 🛠️ **Backend Developer Intern (Shortlisted)** @ **WorkZen** — Explored highly efficient system design paradigms.
 
 ---
 
@@ -47,20 +54,17 @@
 ## 🛠️ Tech Stack
 
 **Frontend**
-```
-React  ·  Next.js  ·  Tailwind CSS  ·  Bootstrap  ·  HTML / CSS / JS
-```
+React  ·  Next.js  ·  Flutter  ·  Tailwind CSS  ·  Bootstrap  ·  HTML / CSS / JS
+
 **Backend & Database**
-```
-Django  ·  Node.js  ·  Express  ·  Flask  ·  MongoDB  ·  MySQL  ·  PostgreSQL
-```
-**AI / ML & Tools**
-```
-Python  ·  TensorFlow  ·  PyTorch  ·  OpenCV  ·  Linux  ·  Figma
-```
+Node.js  ·  Express  ·  Django  ·  Flask  ·  PostgreSQL  ·  MySQL  ·  MongoDB  ·  BigQuery SQL
+
+**AI / ML & Cloud Infrastructure**
+Python  ·  Java  ·  TensorFlow  ·  PyTorch  ·  OpenCV  ·  Google Cloud Platform (GCP)  ·  Linux
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,python,opencv,tensorflow,pytorch,django,flask,php,java,c,linux,nodejs,express,mongodb,mysql,postgres,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,bootstrap,tailwind,python,java,opencv,tensorflow,pytorch,django,flask,gcp,linux,nodejs,express,mongodb,mysql,postgres,figma" />
 </p>
 
 ---
@@ -69,10 +73,10 @@ Python  ·  TensorFlow  ·  PyTorch  ·  OpenCV  ·  Linux  ·  Figma
 
 | Project | Description | Stack | Stars |
 |---------|------------|-------|-------|
-| 🎓 **Smart Classroom SCMS** | Facial recognition attendance automation | Django · OpenCV · ML | ![Stars](https://img.shields.io/github/stars/sriram806/Smart-Classroom-SCMS?style=flat-square&color=FBBC05) |
-| 🚗 **Vehicle Entry/Exit System** | AI license plate verification Android app | Kotlin · Spring Boot · Firebase | ![Stars](https://img.shields.io/github/stars/sriram806/Vehicle-Entry-Exit?style=flat-square&color=FBBC05) |
-| ✈️ **FlyOBO Travel Platform** | Full-stack smart travel booking solution | MERN · Redux · Tailwind | ![Stars](https://img.shields.io/github/stars/sriram806/FlyOBO?style=flat-square&color=FBBC05) |
-| 🕵️ **Deepfake Detection** | Video manipulation detection system | Python · PyTorch · OpenCV | ![Stars](https://img.shields.io/github/stars/sriram806/Deepfake-Detection?style=flat-square&color=FBBC05) |
+| ✈️ **FlyOBO Travel Platform** | Smart, high-availability travel booking ecosystem. | MERN · Redux · Tailwind | ![Stars](https://img.shields.io/github/stars/sriram806/FlyOBO?style=flat-square&color=FBBC05) |
+| 🚗 **Dwaramitra (Vehicle Entry/Exit System)** | Secured AI license plate verification and vehicle access management system. | Kotlin · Spring Boot · Firebase | ![Stars](https://img.shields.io/github/stars/sriram806/Vehicle-Entry-Exit?style=flat-square&color=FBBC05) |
+| 🎓 **Smart Classroom SCMS** | Facial recognition attendance automation for smooth education workflows. | Django · OpenCV · ML | ![Stars](https://img.shields.io/github/stars/sriram806/Smart-Classroom-SCMS?style=flat-square&color=FBBC05) |
+| 🕵️ **Deepfake Detection** | Advanced video manipulation detection pipeline using spatial-temporal analysis. | Python · PyTorch · OpenCV | ![Stars](https://img.shields.io/github/stars/sriram806/Deepfake-Detection?style=flat-square&color=FBBC05) |
 
 ---
 
@@ -84,12 +88,12 @@ Python  ·  TensorFlow  ·  PyTorch  ·  OpenCV  ·  Linux  ·  Figma
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- 🚀 Build and launch **AI-powered SaaS products**
-- 🏗️ Master **system design** and **scalable backend architecture**
-- 🌐 Contribute regularly to **open source** ML and Web projects
-- 🎨 Launch a **Three.js** powered 3D portfolio
+- 🎓 Secure a **Google Summer Internship / Google AI/ML Internship**
+- 🏗️ Master complex **system design**, microservices, and big data architecture
+- 🌐 Build impactful data solutions inspired by challenges like the **Statathon** (Viksit Bharat)
+- 🎨 Ship a stunning **Three.js** interactive 3D web experience
 
 ---
 
